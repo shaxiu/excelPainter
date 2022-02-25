@@ -17,11 +17,11 @@
 
 ## 效果图
 
-![1](C:\CODE\excelPainter\images\1.jpg)
+![1](./images/1.jpg)
 
-![2](C:\CODE\excelPainter\images\2.png)
+![2](./images/2.png)
 
-![3](C:\CODE\excelPainter\images\3.png)
+![3](./images/3.png)
 
 
 
